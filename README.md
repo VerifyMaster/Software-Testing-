@@ -45,67 +45,12 @@ The **Test Plan** serves as a blueprint for the testing process, detailing the s
 
 ## 🛠️ Project Structure
 
-The repository is organized as follows:
-
-/Manual-Testing-Project
-│
-├── /Test-Plan
-│ └── Test-Plan.md
-│
-├── /Test-Cases
-│ ├── TC_Login.md
-│ ├── TC_Registration.md
-│ └── TC_PasswordRecovery.md
-│
-└── README.md
-
-yaml
-Copy
-Edit
-
 - **Test-Plan.md:** Contains the comprehensive test plan document.
 - **Test-Cases/:** Directory containing individual test case files.
   - **TC_Login.md:** Test cases related to the login functionality.
   - **TC_Registration.md:** Test cases for user registration.
   - **TC_PasswordRecovery.md:** Test cases for password recovery.
-
 ---
-
-## 🚀 Getting Started
-
-To get started with the manual testing project:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/Manual-Testing-Project.git
-Navigate to the project directory:
-
-bash
-Copy
-Edit
-cd Manual-Testing-Project
-Review the Test-Plan.md to understand the overall testing strategy and objectives.
-
-Explore the individual test case files in the Test-Cases/ directory to see detailed test scenarios and steps.
-
-🤝 Contribution Guidelines
-Contributions are welcome! To contribute:
-
-Fork the repository.
-
-Create a new branch for your changes.
-
-Implement your changes and commit them.
-
-Push your changes to your forked repository.
-
-Submit a pull request describing your changes.
-
-Please ensure that your contributions adhere to the project's structure and guidelines.
-
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 📞 Contact
 Your Name -Gaurav Bhardwaj- gauravbhardwaj940@gmail.com
